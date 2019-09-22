@@ -40,7 +40,6 @@
     * [https://wine-butik.ru/](https://wine-butik.ru/) 
     * [https://m.holodilnik.ru/](https://m.holodilnik.ru/) 
     * [http://tehnika.ru/](http://tehnika.ru/) 
-    * [http://onshop.ru/](http://onshop.ru/)   
 	
 **Education** 
 
